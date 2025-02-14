@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="229c86a4-bd62-4d72-a2c6-0b9e43951568" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "metal42xd"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/metal42xd/Ml-Project.git",
+    "accountId": "6e659487-a0d0-4e52-9d30-babb023f9368"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/feature calc NEW.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.venv/latest/Feature Selection Latest Attempt.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.venv/latest/feature calc latest attempt.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2rdNxtHGUkEc0u1rfE56vEeygZ6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Feature Selection 2 Elongation.executor": "Run",
+    "Python.Feature Selection 2 Latest.executor": "Run",
+    "Python.Feature Selection 310125.executor": "Run",
+    "Python.Feature Selection Elongagtion.executor": "Run",
+    "Python.Feature Selection Latest Attempt.executor": "Run",
+    "Python.Feature Selection NEW.executor": "Run",
+    "Python.Feature Selection New.executor": "Run",
+    "Python.Poly NEW.executor": "Run",
+    "Python.PolyLatest.executor": "Run",
+    "Python.PredictionElonAll.executor": "Run",
+    "Python.PredictionLatest.executor": "Run",
+    "Python.PredictionLatestAll.executor": "Run",
+    "Python.PredictionYSAll.executor": "Run",
+    "Python.PredictionYSProcessing.executor": "Run",
+    "Python.RBF NEWST TEST.executor": "Run",
+    "Python.RBF New.executor": "Run",
+    "Python.RandomFroestRegressorTEST.executor": "Run",
+    "Python.RandomGeneration (features).executor": "Run",
+    "Python.RawDataAnalysis.executor": "Run",
+    "Python.SigLatest.executor": "Run",
+    "Python.SigTest.executor": "Run",
+    "Python.XGB_NEW.executor": "Run",
+    "Python._base.executor": "Run",
+    "Python.analysis.executor": "Debug",
+    "Python.elonmodelTEST.executor": "Run",
+    "Python.feature calc NEW.executor": "Run",
+    "Python.feature calc elongation.executor": "Run",
+    "Python.feature calc latest attempt.executor": "Run",
+    "Python.feature calc.executor": "Run",
+    "Python.feature importance test.executor": "Run",
+    "Python.feature selection 1 enlongation.executor": "Run",
+    "Python.feature selection 1 ys.executor": "Run",
+    "Python.feature selection 2 ys.executor": "Run",
+    "Python.feature selection 2.executor": "Run",
+    "Python.feature selection.executor": "Run",
+    "Python.feature_calc.executor": "Run",
+    "Python.feature_selection.executor": "Run",
+    "Python.heatmap_maybe.executor": "Run",
+    "Python.heatmaps.executor": "Run",
+    "Python.load dataset.executor": "Run",
+    "Python.poly (maybe need help).executor": "Run",
+    "Python.poly.executor": "Run",
+    "Python.pre(2).executor": "Run",
+    "Python.pre.executor": "Run",
+    "Python.prediction plotting.executor": "Run",
+    "Python.prediction.executor": "Run",
+    "Python.predictionElon.executor": "Run",
+    "Python.predictionLatestProcessing.executor": "Run",
+    "Python.predictionProcessing.executor": "Run",
+    "Python.predictionYS.executor": "Run",
+    "Python.randomforestregressor.executor": "Run",
+    "Python.randomforestregressorTEST.executor": "Run",
+    "Python.rbf.executor": "Run",
+    "Python.rbfCompOnly.executor": "Run",
+    "Python.rbfElon.executor": "Run",
+    "Python.rbfLatest.executor": "Run",
+    "Python.sig.executor": "Run",
+    "Python.signewtest.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.xgb.executor": "Run",
+    "Python.yield strength latest.executor": "Run",
+    "Python.yield strength.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/joshg/OneDrive/Desktop/project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.analysis">
+    <configuration name="PredictionElonAll" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data Analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/elongagtion latest" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/elongagtion latest/PredictionElonAll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PredictionLatestAll" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data Analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/latest" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/latest/PredictionLatestAll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomGeneration (features)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data Analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/latest" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/latest/RandomGeneration (features).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Data Analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/random generation analysis" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/random generation analysis/analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="heatmaps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data Analysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/random generation analysis" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/random generation analysis/heatmaps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.analysis" />
+      <item itemvalue="Python.PredictionLatestAll" />
+      <item itemvalue="Python.heatmaps" />
+      <item itemvalue="Python.PredictionElonAll" />
+      <item itemvalue="Python.RandomGeneration (features)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PredictionLatestAll" />
+        <item itemvalue="Python.heatmaps" />
+        <item itemvalue="Python.analysis" />
+        <item itemvalue="Python.PredictionElonAll" />
+        <item itemvalue="Python.RandomGeneration (features)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="229c86a4-bd62-4d72-a2c6-0b9e43951568" name="Changes" comment="" />
+      <created>1736885242459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736885242459</updated>
+      <workItem from="1736885260751" duration="72346000" />
+      <workItem from="1737977113808" duration="52033000" />
+      <workItem from="1738170844822" duration="1825000" />
+      <workItem from="1738267320275" duration="3958000" />
+      <workItem from="1738284994733" duration="77728000" />
+      <workItem from="1738622817330" duration="25912000" />
+      <workItem from="1738716972193" duration="155000" />
+      <workItem from="1738718820508" duration="8669000" />
+      <workItem from="1738776950371" duration="58285000" />
+      <workItem from="1739495814139" duration="2385000" />
+      <workItem from="1739498237218" duration="639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kapoor/kapoor/daore4.0/models/paint.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../kapoor/kapoor/qiangdu3.0/models/poly.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/.venv/latest/predictionLatestProcessing.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Data_Analysis$feature_calc.coverage" NAME="feature calc Coverage Results" MODIFIED="1738957631357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/yield strength" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$Feature_Selection_2_Latest.coverage" NAME="Feature Selection 2 Latest Coverage Results" MODIFIED="1738686494245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$SigLatest.coverage" NAME="SigLatest Coverage Results" MODIFIED="1738427111301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$feature_selection.coverage" NAME="feature selection Coverage Results" MODIFIED="1738286715567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../kapoor/kapoor/qiangdu4.0/feature_selection_1" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$feature_calc_elongation.coverage" NAME="feature calc elongation Coverage Results" MODIFIED="1738774117943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/elongagtion latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$_base.coverage" NAME="_base Coverage Results" MODIFIED="1738711537943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Lib/site-packages/pandas/io/excel" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$feature_selection_1_ys.coverage" NAME="feature selection 1 ys Coverage Results" MODIFIED="1738774154758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/yield strength" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$feature_calc_latest_attempt.coverage" NAME="feature calc latest attempt Coverage Results" MODIFIED="1738945411166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$load_dataset.coverage" NAME="load dataset Coverage Results" MODIFIED="1736887187503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$RandomFroestRegressorTEST.coverage" NAME="RandomFroestRegressorTEST Coverage Results" MODIFIED="1738749664152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/elongagtion latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$PredictionLatestAll.coverage" NAME="PredictionLatestAll Coverage Results" MODIFIED="1739235534666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$feature_selection_2_ys.coverage" NAME="feature selection 2 ys Coverage Results" MODIFIED="1738774181327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/yield strength" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$test.coverage" NAME="test Coverage Results" MODIFIED="1738591107210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/elongagtion latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$RBF_New.coverage" NAME="RBF New Coverage Results" MODIFIED="1738078145967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$predictionYS.coverage" NAME="predictionYS Coverage Results" MODIFIED="1738945850979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:\Users\joshg\OneDrive\Desktop\project\Data Analysis\.venv\yield strength" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$Feature_Selection_NEW.coverage" NAME="Feature Selection NEW Coverage Results" MODIFIED="1737497062307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$XGB_NEW.coverage" NAME="XGB_NEW Coverage Results" MODIFIED="1738427984801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$prediction_plotting.coverage" NAME="prediction plotting Coverage Results" MODIFIED="1738110865627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$sig.coverage" NAME="sig Coverage Results" MODIFIED="1738011499043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../kapoor/kapoor/qiangdu4.0/models" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$xgb.coverage" NAME="xgb Coverage Results" MODIFIED="1738528464548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$PredictionYSProcessing.coverage" NAME="PredictionYSProcessing Coverage Results" MODIFIED="1738948529543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/yield strength" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$feature_selection_2.coverage" NAME="feature selection 2 Coverage Results" MODIFIED="1738691065448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/elongagtion latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$randomforestregressor.coverage" NAME="randomforestregressor Coverage Results" MODIFIED="1738957710403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/yield strength" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$rbf.coverage" NAME="rbf Coverage Results" MODIFIED="1738290730685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../kapoor/kapoor/qiangdu3.0/models" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$heatmaps.coverage" NAME="heatmaps Coverage Results" MODIFIED="1739224492999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/random generation analysis" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$Feature_Selection_2_Elongation.coverage" NAME="Feature Selection 2 Elongation Coverage Results" MODIFIED="1738527405265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$PredictionLatest.coverage" NAME="PredictionLatest Coverage Results" MODIFIED="1738945975217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$PredictionElonAll.coverage" NAME="PredictionElonAll Coverage Results" MODIFIED="1739235726003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/elongagtion latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$SigTest.coverage" NAME="SigTest Coverage Results" MODIFIED="1738078195034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$PolyLatest.coverage" NAME="PolyLatest Coverage Results" MODIFIED="1738427033709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$Feature_Selection_Latest_Attempt.coverage" NAME="Feature Selection Latest Attempt Coverage Results" MODIFIED="1738685969188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$Feature_Selection_310125.coverage" NAME="Feature Selection 310125 Coverage Results" MODIFIED="1738284701131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$rbfCompOnly.coverage" NAME="rbfCompOnly Coverage Results" MODIFIED="1738709324342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$rbfElon.coverage" NAME="rbfElon Coverage Results" MODIFIED="1738525675627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$heatmap_maybe.coverage" NAME="heatmap_maybe Coverage Results" MODIFIED="1738708689089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$feature_importance_test.coverage" NAME="feature importance test Coverage Results" MODIFIED="1738285380529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$RawDataAnalysis.coverage" NAME="RawDataAnalysis Coverage Results" MODIFIED="1738285441501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$poly__maybe_need_help_.coverage" NAME="poly (maybe need help) Coverage Results" MODIFIED="1736904718869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$predictionLatestProcessing.coverage" NAME="predictionLatestProcessing Coverage Results" MODIFIED="1738947497918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1739498246457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/random generation analysis" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$poly.coverage" NAME="poly Coverage Results" MODIFIED="1737498290041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../kapoor/kapoor/qiangdu3.0/models" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$prediction.coverage" NAME="prediction Coverage Results" MODIFIED="1738099030474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$elonmodelTEST.coverage" NAME="elonmodelTEST Coverage Results" MODIFIED="1738530905362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$RandomGeneration__features_.coverage" NAME="RandomGeneration (features) Coverage Results" MODIFIED="1739222921124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$feature_selection_1_enlongation.coverage" NAME="feature selection 1 enlongation Coverage Results" MODIFIED="1738691220870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/elongagtion latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$pre.coverage" NAME="pre Coverage Results" MODIFIED="1738801223743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/elongagtion latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$Feature_Selection_New.coverage" NAME="Feature Selection New Coverage Results" MODIFIED="1738284612217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$pre_2_.coverage" NAME="pre(2) Coverage Results" MODIFIED="1738028780432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../kapoor/kapoor/daore4.0/prediction" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$rbfLatest.coverage" NAME="rbfLatest Coverage Results" MODIFIED="1738709492658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$predictionProcessing.coverage" NAME="predictionProcessing Coverage Results" MODIFIED="1738948162257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/elongagtion latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$RBF_NEWST_TEST.coverage" NAME="RBF NEWST TEST Coverage Results" MODIFIED="1738031032475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$Poly_NEW.coverage" NAME="Poly NEW Coverage Results" MODIFIED="1738096603607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$predictionElon.coverage" NAME="predictionElon Coverage Results" MODIFIED="1738530945757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$PredictionYSAll.coverage" NAME="PredictionYSAll Coverage Results" MODIFIED="1739121948947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/yield strength" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$signewtest.coverage" NAME="signewtest Coverage Results" MODIFIED="1738078426919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$feature_calc_NEW.coverage" NAME="feature calc NEW Coverage Results" MODIFIED="1738774128120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$Feature_Selection_Elongagtion.coverage" NAME="Feature Selection Elongagtion Coverage Results" MODIFIED="1738515698489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/latest" />
+    <SUITE FILE_PATH="coverage/Data_Analysis$randomforestregressorTEST.coverage" NAME="randomforestregressorTEST Coverage Results" MODIFIED="1738712474944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/yield strength" />
+  </component>
+</project>
